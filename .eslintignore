@@ -1,0 +1,7 @@
+# production
+/dist
+/.vscode
+/node_modules/
+/.eslintrc.js
+.babel.config.js
+.eslintrc.js
