@@ -10,7 +10,8 @@
     "eslint": "eslint . --ext .ts",
     "lint-staged": "lint-staged",
     "lint-staged:js": "eslint --ext .ts",
-    "fix": "prettier --config --write src/index.ts"
+    "fix": "prettier --config --write src/index.ts",
+    "commit": "git cz"
   },
   "repository": {
     "type": "git",
